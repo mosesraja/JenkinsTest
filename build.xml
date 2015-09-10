@@ -1,0 +1,18 @@
+<?xml version="1.0" ?> 
+<project name="AntExample" default="moses">
+
+	
+	<target name="clean">
+		<delete dir="dist" />
+		<delete dir="build" />
+	</target>
+	
+	<target name="create">
+		<delete dir="dist" />
+		<delete dir="build" />
+		
+		<echo>TESTTETETET</echo>
+	</target>
+	
+	
+</project>
