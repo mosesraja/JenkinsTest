@@ -12,6 +12,7 @@
 		<delete dir="build" />
 		
 		<echo>TESTTETETET</echo>
+		<echo>TESTTETETET I M HUNGRY</echo>
 	</target>
 	
 	
